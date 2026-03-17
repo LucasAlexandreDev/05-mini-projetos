@@ -109,19 +109,19 @@ button:hover {
   justify-content: center;
 }
 
-.valor-percentual-cinco{
+.resultado.desconto1{
   border: 2px solid #14532d;
-  box-shadow: 0 0 16px solid #14532d;
+  box-shadow: inset  0 16px solid #14532d;
 }
 
-.valor-percentual-cinco-ate-dez{
+.resultado.desconto2{
   border: 2px solid #713f12;
-  box-shadow: 0 0 16px solid #713f12;
+  box-shadow: inset 0 0 16px solid #713f12;
 }
 
-.valor-percentual-acima-dez{
+.resultado.desconto3{
   border: 2px solid #7f1d1d;
-  box-shadow: 0 0 16px solid #7f1d1d;
+  box-shadow: inset  0 16px solid #7f1d1d;
 }
 
 footer {
